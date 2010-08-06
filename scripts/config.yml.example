@@ -1,0 +1,11 @@
+serial_port: "COM3"
+
+# Hudson Build URLS
+hudson_builds:
+  - "http://hudson.yourcompany.com/job/frontend/lastBuild"
+  - "http://hudson.yourcompany.com/job/backend/lastBuild"
+
+# Site Upness URLs
+site_upness_urls:
+  - "http://www.yourcompany.com/"
+  - "http://blog.yourcompany.com"
